@@ -1,0 +1,13 @@
+# Config sensitif
+config/database.php
+
+# Cache & log
+*.log
+
+# OS & Editor
+.vscode/
+.DS_Store
+
+# Upload user (opsional)
+assets/img/avatars/*
+!assets/img/avatars/.gitkeep
